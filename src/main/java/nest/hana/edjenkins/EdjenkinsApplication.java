@@ -7,6 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EdjenkinsApplication {
 
     public static void main(String[] args) {
+
+
+        System.out.println("jenkins test messege");
+
+
         SpringApplication.run(EdjenkinsApplication.class, args);
     }
 
